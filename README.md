@@ -11,4 +11,4 @@ We are committed to making our research reproducible and accessible. Please chec
 - Sample datasets and usage examples
 - Scripts for physical property calculation and validation
 
-If you have any urgent questions, please feel free to contact us at [your-email@example.com].
+If you have any urgent questions, please feel free to contact us at [23307130266@m.fudan.edu.cn].
